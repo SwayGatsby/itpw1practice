@@ -1,2 +1,4 @@
 # itpw1practice
-Week 1 Git Practice
+So we beat on, boats against the current, bourne back ceaselessly into the past.
+
+F Scott Fitzgerald
