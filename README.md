@@ -7,3 +7,7 @@ In my younger and more vulnerable years my father gave me some advice that I've 
 So we beat on, boats against the current, bourne back ceaselessly into the past.
 
 F Scott Fitzgerald
+
+# Testing
+
+This is a line added to test global settings
